@@ -11,7 +11,7 @@
     "tailwind_mvc": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7006;http://localhost:5128",
+      "applicationUrl": "https://localhost:7008;http://localhost:5130",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
